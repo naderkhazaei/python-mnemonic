@@ -67,7 +67,7 @@ Given the word list and custom passphrase (empty in example), generate seed:
 
    seed = mnemo.to_seed(words, passphrase="") 
 
-Given the word list, calculate original entropy:
+Given the word list, calculate original entropy: {"blockchain":"BTC","action":"coldWalletSign","sign":"VY9NT8MwDIb\/i88Vips0sXfjMAlp08Q0CQ6IQ5qkdINBu6Rb26n\/nSIkPm627PfjucL+velShMXTFVK\/97CAHEtTVc46a6XzpSaJpVJCsjJWGsbgUAsppXVkhGZ0jMRllaPM2XHBkMHZvnUBFoaNvpl1qHKS2RzlQw8LzDNIQzPfIbrTvkm1jfUs+l7uu3IVhruvR7CMypGzWIgQKC+IvTKV5pK888ZZr0l5otm8QjIwPWfw0aUfHuv9KcR5htJhayONXA\/6mA7pMjQHcTy89lyPrT9fXlLUY0jNEH\/L51P210Kuxprb2\/bhcVsvY7UdzbjcrnHZ7foiDZv1ZvePW83cklRBUgiB0\/P0CQ=="}
 
 .. code-block:: python
 
